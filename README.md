@@ -25,27 +25,26 @@ Replace input.txt with your input file containing subdomains and output.txt with
 
 ## Output Example
 
-Let's say you have an input file named `input.txt` with the following content:
-
+# Let's say you have an input file named `input.txt` with the following content:
+```bash
 subdomain1.example.com
 subdomain2.example.com
 subdomain1.example.com
 subdomain3.example.com
 subdomain2.example.com
-etc..
-
+```
 
 Running the Subdomain Unique Lines script:
 
 ```bash
 ./sul.sh input.txt output.txt
 ```
-The script will output:
-
+## The script will output:
+```bash
 Duplicates removed. Result saved to output.txt
-Input file lines: 1671
-Output file lines: 269
-
+Input file lines: 5
+Output file lines: 3
+```
 
 ## Contributing
 

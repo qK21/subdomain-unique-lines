@@ -25,7 +25,7 @@ Replace input.txt with your input file containing subdomains and output.txt with
 
 ## Output Example
 
-# Let's say you have an input file named `input.txt` with the following content:
+Let's say you have an input file named `input.txt` with the following content:
 ```bash
 subdomain1.example.com
 subdomain2.example.com

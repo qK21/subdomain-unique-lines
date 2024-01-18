@@ -14,7 +14,7 @@ Subdomain Unique Lines is a simple Bash script that removes duplicate lines from
 
 ### Installation
 
-No installation is required. Simply download the `subdomain-unique-lines.sh` script and make it executable.
+No installation is required. Simply download the `sul.sh` script and make it executable.
 
 ```bash
-chmod +x subdomain-unique-lines.sh
+chmod +x sul.sh

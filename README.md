@@ -26,12 +26,12 @@ chmod +x sul.sh
 
 Mention that the script is compatible with the Bash shell:
 
-```markdown
+
 **Shell Compatibility:**
 - Bash
 
 ### Usage Example
-```
+
 ```bash
 ./sul.sh input.txt output.txt
 ```
@@ -40,7 +40,7 @@ Replace input.txt with your input file containing subdomains and output.txt with
 ### License Badge
 
 
-```markdown
+
 ![License](https://img.shields.io/github/license/qK21/subdomain-unique-lines)
 
 ## Contributing

@@ -1,16 +1,10 @@
 # Subdomain Unique Lines
 
-![GitHub](https://img.shields.io/github/license/qk21/subdomain-unique-lines)
 
 ## Overview
 
 Subdomain Unique Lines is a simple Bash script that removes duplicate lines from a file containing subdomains. It utilizes `awk` to process the file and outputs a new file without duplicate lines.
 
-## Usage
-
-### Prerequisites
-
-- Bash
 
 ### Installation
 
@@ -21,15 +15,6 @@ curl -O https://raw.githubusercontent.com/qK21/subdomain-unique-lines/main/sul.s
 chmod +x sul.sh
 ```
 
-
-### Specify the Shell Compatibility
-
-Mention that the script is compatible with the Bash shell:
-
-
-**Shell Compatibility:**
-- Bash
-
 ### Usage Example
 
 ```bash
@@ -37,11 +22,6 @@ Mention that the script is compatible with the Bash shell:
 ```
 Replace input.txt with your input file containing subdomains and output.txt with the desired name for the file without duplicates.
 
-### License Badge
-
-
-
-![License](https://img.shields.io/github/license/qK21/subdomain-unique-lines)
 
 ## Contributing
 
@@ -50,8 +30,3 @@ for any idea submitting pull requests. Your feedback and contributions are welco
 ## Author
 
 - [qK21](https://github.com/qK21)
-
-## Acknowledgments
-
-- This tool was inspired by the need to process subdomain lists efficiently.
-- Thanks to the open-source community for their valuable contributions.

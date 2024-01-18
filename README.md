@@ -1,6 +1,7 @@
 # Subdomain Unique Lines
 
 
+
 ## Overview
 
 Subdomain Unique Lines is a simple Bash script that removes duplicate lines from a file containing subdomains. It utilizes `awk` to process the file and outputs a new file without duplicate lines.

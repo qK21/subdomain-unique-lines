@@ -23,6 +23,29 @@ chmod +x sul.sh
 ```
 Replace input.txt with your input file containing subdomains and output.txt with the desired name for the file without duplicates.
 
+## Output Example
+
+Let's say you have an input file named `input.txt` with the following content:
+
+subdomain1.example.com
+subdomain2.example.com
+subdomain1.example.com
+subdomain3.example.com
+subdomain2.example.com
+etc..
+
+
+Running the Subdomain Unique Lines script:
+
+```bash
+./sul.sh input.txt output.txt
+```
+The script will output:
+
+Duplicates removed. Result saved to output.txt
+Input file lines: 1671
+Output file lines: 269
+
 
 ## Contributing
 
